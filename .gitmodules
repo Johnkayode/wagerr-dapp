@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Tobe0504/wager-project
+[submodule "contract"]
+	path = contract
+	url = https://github.com/Johnkayode/wagerr
