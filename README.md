@@ -20,7 +20,8 @@ Wagerr is a peer-to-peer social betting app built on Polkadot that allows users 
 - **[Wagerr-contract:](https://github.com/johnkayode/wagerr)** This is the smart contract repository written in Ink!.
 
 ## 🎥 Demo
-[![Watch the video](https://i3.ytimg.com/vi/rBBk0K29X9c?si=GGu6tGFuhGlkeNd6/maxresdefault.jpg)](https://youtu.be/rBBk0K29X9c?si=GGu6tGFuhGlkeNd6)
+[![Watch the video](https://i9.ytimg.com/vi/rBBk0K29X9c/mq1.jpg)](https://youtu.be/rBBk0K29X9c?si=GGu6tGFuhGlkeNd6)
+
 
 ## Features
 <sup>[(Back to top)](#------------------------)</sup>
