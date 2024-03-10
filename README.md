@@ -1,5 +1,5 @@
 <h1 align="center">
-  WAGERR (Polkadot)
+  Wagerr (Polkadot)
 </h1>
 
 <p align="center">
@@ -13,14 +13,14 @@
 
 ## Overview
 
-Wagerr is a peer-to-peer social betting app built on Polkadot that 
+Wagerr is a peer-to-peer social betting app built on Polkadot that allows users create wagers against friends or anyone, on any subject, on the blockchain.
 
 ## Repos
 - **[Wagerr-frontend:](https://github.com/Tobe0504/wager-project)** This is the user interface of Wagerr written in React.
 - **[Wagerr-contract:](https://github.com/johnkayode/wagerr)** This is the smart contract repository written in Ink!.
 
 ## 🎥 Demo
-[![Watch the video](http://i3.ytimg.com/vi/8LxA-BlxA3M/hqdefault.jpg)](https://youtu.be/8LxA-BlxA3M?feature=shared)
+[![Watch the video]()]()
 
 ## Features
 <sup>[(Back to top)](#------------------------)</sup>
